@@ -7,6 +7,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Lap456.Models;
+using Lab4_5_6.Controllers;
 
 namespace Lap456.Controllers
 {
